@@ -1,0 +1,7 @@
+Total log probability of observing the sequence AGCGTA is -8.16367, -inf.
+[[ 0.  0.  0.  0.  0.  0.]
+ [ 0.  0.  1.  0.  1.  0.]]
+[  4.69762048e-05   1.17440512e-05]
+[0]
+Viterbi best path is 
+1 1 1 1 1 1 
